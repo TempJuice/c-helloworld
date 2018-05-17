@@ -1,0 +1,11 @@
+/Users/tempjuice/Documents/Coding Practice/c#helloworld/bin/Debug/netcoreapp2.0/c#helloworld.deps.json
+/Users/tempjuice/Documents/Coding Practice/c#helloworld/bin/Debug/netcoreapp2.0/c#helloworld.runtimeconfig.json
+/Users/tempjuice/Documents/Coding Practice/c#helloworld/bin/Debug/netcoreapp2.0/c#helloworld.runtimeconfig.dev.json
+/Users/tempjuice/Documents/Coding Practice/c#helloworld/bin/Debug/netcoreapp2.0/c#helloworld.dll
+/Users/tempjuice/Documents/Coding Practice/c#helloworld/bin/Debug/netcoreapp2.0/c#helloworld.pdb
+/Users/tempjuice/Documents/Coding Practice/c#helloworld/obj/Debug/netcoreapp2.0/c#helloworld.csprojAssemblyReference.cache
+/Users/tempjuice/Documents/Coding Practice/c#helloworld/obj/Debug/netcoreapp2.0/c#helloworld.csproj.CoreCompileInputs.cache
+/Users/tempjuice/Documents/Coding Practice/c#helloworld/obj/Debug/netcoreapp2.0/c#helloworld.AssemblyInfoInputs.cache
+/Users/tempjuice/Documents/Coding Practice/c#helloworld/obj/Debug/netcoreapp2.0/c#helloworld.AssemblyInfo.cs
+/Users/tempjuice/Documents/Coding Practice/c#helloworld/obj/Debug/netcoreapp2.0/c#helloworld.dll
+/Users/tempjuice/Documents/Coding Practice/c#helloworld/obj/Debug/netcoreapp2.0/c#helloworld.pdb
